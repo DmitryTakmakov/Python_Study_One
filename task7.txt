@@ -1,0 +1,5 @@
+Vektor OOO 100000 80000
+Horns_and_hoofs ZAO 20000 5000
+Single_day_company OAO 1000 15000
+Vector ZAO 200000 100000
+Shady_offshore OOO 20000 19999
