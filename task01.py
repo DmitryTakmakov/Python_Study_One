@@ -1,6 +1,3 @@
-from functools import reduce
-
-
 def unpacked(list):
     """
     Эта функция нужна для выдирания значений из меньших списков, составляющих матрицу
